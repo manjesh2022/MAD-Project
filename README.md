@@ -9,6 +9,10 @@ Develop an android application – Employee database application that helps the 
 *Make access to the data easy for the user.<br> 
 *Making modifications to the database available immediately.<br>
 
+![image](https://user-images.githubusercontent.com/98503314/179978944-bb398216-c605-4a4c-be9f-458b84dcb0ca.png)
+![image](https://user-images.githubusercontent.com/98503314/179979662-a80effcd-8bc1-4a49-a8aa-233f58f52c82.png)
+
+
 ![img1](https://user-images.githubusercontent.com/98503314/179977327-a5422823-c13b-4631-a978-840ad1d2222e.png)
 ![img2](https://user-images.githubusercontent.com/98503314/179977332-78edab6e-7777-4083-9e84-1f851e04f228.png)
 ![img3](https://user-images.githubusercontent.com/98503314/179977337-fa1b741f-d063-4a9e-93af-534debf480be.png)
