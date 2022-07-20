@@ -1,4 +1,4 @@
-# employeedadabase
+# MAD-Project
 Mobile Application Development Project on "EMPLOYEE DATABASE" using Java
 
 # Employee Database Mobile Application  
